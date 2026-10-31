@@ -2,7 +2,6 @@
 
 int main(void) {
     printf("Hello, World!\n");
-    printf("The weather has changed!
-");
+    printf("The weather has changed!\n");
     return 0;
 }
